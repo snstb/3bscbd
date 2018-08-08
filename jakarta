@@ -281,98 +281,124 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 #Sports Channel List
 
-#EXTINF:0, group-title="Sports",STAR SPORTS 1
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/500.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS 1 HD
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1063.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS 2
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/501.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS 2 HD
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1066.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1
-
-#EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1 HD
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1371.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1125.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 2
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1315.ts
-
-#EXTINF:0, group-title="Sports",FOX SPORTS
-http://rr.dens.tv/h/h19/index2.m3u8
-
-#EXTINF:0, group-title="Sports",FOX SPORTS 2
-http://rr.dens.tv/h/h20/index2.m3u8
-
-#EXTINF:0, group-title="Sports",FOX SPORTS 3
-http://rr.dens.tv/h/h21/index2.m3u8
-
-#EXTINF:0, group-title="Sports",SONY TEN 1
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY TEN 2
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY TEN 3 SD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY TEN 3 HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY SIX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-
-#EXTINF:0, group-title="Sports",NEO SPORTS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-
-#EXTINF:0, group-title="Sports",NEO PRIME
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-
-#EXTINF:0, group-title="Sports",SONY ESPN
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
-
+#EXTINF:0, group-title="Sports",PTV SPORTS
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/498.ts
+#EXTINF:0, group-title="Sports",SPORTS",GEO SUPER
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/499.ts
+#EXTINF:0, group-title="Sports",OSN CRICKET  HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1070.ts
+#EXTINF:0, group-title="Sports",WILLOW CRICKET HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/517.ts
+#EXTINF:0, group-title="Sports",SONY SIX HD india
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1367.ts
 #EXTINF:0, group-title="Sports",SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-
-#EXTINF:0, group-title="Sports",DSPORT
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1317.ts
+#EXTINF:0, group-title="Sports",TEN 1 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/497.ts
+#EXTINF:0, group-title="Sports",SONY MAX india
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/747.ts
+#EXTINF:0, group-title="Sports",Boxoffice PPV
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1423.ts
+#EXTINF:0, group-title="Sports",STAR SPORTS 1 TAMIL
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1529.ts
+#EXTINF:0, group-title="Sports",STAR SPORTS HD1
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1369.ts
+#EXTINF:0, group-title="Sports",ind: Star sports HD1
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1063.ts
+#EXTINF:0, group-title="Sports",STAR SPORTS HD2
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1370.ts
+#EXTINF:0, group-title="Sports",STAR SPORTS HD1 Hindi
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1371.ts
+#EXTINF:0, group-title="Sports",JIO CRICKET HD Hindi
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1372.ts
+#EXTINF:0, group-title="Sports",STAR SPORTS SELECT HD1
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1125.ts
+#EXTINF:0, group-title="Sports",Star sports select HD2
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1315.ts
+#EXTINF:0, group-title="Sports",D SPORTS
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1755.ts
+#EXTINF:0, group-title="Sports",BT SPORT 1 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/519.ts
+#EXTINF:0, group-title="Sports",BT SPORT 2 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/520.ts
+#EXTINF:0, group-title="Sports",BT SPORT 3 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/521.ts
+#EXTINF:0, group-title="Sports",SPORTS",BT SPORT ESPN HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/981.ts
+#EXTINF:0, group-title="Sports",EURO SPORT 1 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/522.ts
+#EXTINF:0, group-title="Sports",EURO SPORT 2 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/523.ts
+#EXTINF:0, group-title="Sports",EIR SPORT 1
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1582.ts
+#EXTINF:0, group-title="Sports",EIR SPORT 2
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1583.ts
+#EXTINF:0, group-title="Sports",Premier sports HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1316.ts
+#EXTINF:0, group-title="Sports",OSN SPORTS 1 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1124.ts
+#EXTINF:0, group-title="Sports",OSN SPORTS 2 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1139.ts
+#EXTINF:0, group-title="Sports",OSN SPORTS 3 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1069.ts
+#EXTINF:0, group-title="Sports",OSN SPORTS 4 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1140.ts
+#EXTINF:0, group-title="Sports",Star sports 1
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/500.ts
+#EXTINF:0, group-title="Sports",Star sports 2
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/501.ts
+#EXTINF:0, group-title="Sports",Star sports 3
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/502.ts
+#EXTINF:0, group-title="Sports",TEN 1
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/512.ts
+#EXTINF:0, group-title="Sports",TEN 2 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/513.ts
+#EXTINF:0, group-title="Sports",TEN 3 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/518.ts
+#EXTINF:0, group-title="Sports",SONY ESPN
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/515.ts
+#EXTINF:0, group-title="Sports",Sony SIX
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/514.ts
+#EXTINF:0, group-title="Sports",Ten Golf HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1306.ts
+#EXTINF:0, group-title="Sports",Tennis HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1282.ts
+#EXTINF:0, group-title="Sports",Ten cricket
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/510.ts
+#EXTINF:0, group-title="Sports",Neo Prime
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/503.ts
+#EXTINF:0, group-title="Sports",Neo Sports
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/516.ts
 #EXTINF:0, group-title="Sports",DD SPORTS
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
-
-#EXTINF:0, group-title="Sports",TRUE SPORTS
-
-#EXTINF:0, group-title="Sports",STAR SPORTS FIRST
-
-#EXTINF:0, group-title="Sports",AD Sports
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/index.m3u8
-
-#EXTINF:0, group-title="Sports",AD Sports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
-
-#EXTINF:0, group-title="Sports",AD Sports L1
-http://cshms3.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/index.m3u8
-
-#EXTINF:0, group-title="Sports",AD Sports L2
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1359.ts
+#EXTINF:0, group-title="Sports",Bein Sports 11 HD EN
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/528.ts
+#EXTINF:0, group-title="Sports",Bein Sports 12 EN
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1002.ts
+#EXTINF:0, group-title="Sports",Bein sports 1 HD fr
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1003.ts
+#EXTINF:0, group-title="Sports",Bein sports 2 HD fr
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1004.ts
+#EXTINF:0, group-title="Sports",Bein sports spain
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/529.ts
+#EXTINF:0, group-title="Sports",OSN WWE
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/932.ts
+#EXTINF:0, group-title="Sports",WWE NETWORK
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/526.ts
+#EXTINF:0, group-title="Sports",BOX NATION UK
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/924.ts
+#EXTINF:0, group-title="Sports",FIGHT BOX
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1430.ts
+#EXTINF:0, group-title="Sports",MUFC TV HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1424.ts
+#EXTINF:0, group-title="Sports",CHELSEA TV
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1422.ts
+#EXTINF:0, group-title="Sports",At the races
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/804.ts
+#EXTINF:0, group-title="Sports",Racing UK
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/794.ts
 #EXTINF:0, group-title="Sports",REAL MADRID TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/527.ts
 
 
 #Hindi News Channel Lists
