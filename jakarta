@@ -280,8 +280,6 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 
 #Sports Channel List
-#Sports Channel List
-
 #EXTINF:0, group-title="Sports",STAR SPORTS 1
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/500.ts
 
@@ -302,8 +300,47 @@ http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1371.ts
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1125.ts
 
-#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 2
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1315.ts
+#EXTINF:0, group-title="Sports",OSN CRICKET  HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1070.ts
+
+#EXTINF:0, group-title="Sports",WILLOW CRICKET HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/517.ts
+
+#EXTINF:0, group-title="Sports",JIO CRICKET HD Hindi
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1372.ts
+
+#EXTINF:0, group-title="Sports",Ten cricket
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/510.ts
+
+#EXTINF:0, group-title="Sports",Sky sports action HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/506.ts
+
+#EXTINF:0, group-title="Sports",Sky Sports Arena HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1648.ts
+
+#EXTINF:0, group-title="Sports",Sky sports cricket HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/505.ts
+
+#EXTINF:0, group-title="Sports",Sky sports f1 HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1001.ts
+
+#EXTINF:0, group-title="Sports",Sky Sports Football HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1647.ts
+
+#EXTINF:0, group-title="Sports",Sky Sports Golf HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/507.ts
+
+#EXTINF:0, group-title="Sports",sky sports main event HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/504.ts
+
+#EXTINF:0, group-title="Sports",Sky Sports mix HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/943.ts
+
+#EXTINF:0, group-title="Sports",SKY SPORTS NEWS
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/509.ts
+
+#EXTINF:0, group-title="Sports",Sky Sports Premier League HD
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/508.ts
 
 #EXTINF:0, group-title="Sports",FOX SPORTS
 http://rr.dens.tv/h/h19/index2.m3u8
