@@ -283,16 +283,11 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:0, group-title="Sports",STAR SPORTS 1
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/500.ts
 
-#EXTINF:0, group-title="Sports",STAR SPORTS 1 HD
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1063.ts
-
 #EXTINF:0, group-title="Sports",STAR SPORTS 2
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/501.ts
 
-#EXTINF:0, group-title="Sports",STAR SPORTS 2 HD
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1066.ts
-
-#EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1
+#EXTINF:0, group-title="Sports",STAR SPORTS 3
+http://luckonline.eu:8080/live/Jakarta786/Jakarta786/502.ts
 
 #EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1 HD
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1371.ts
@@ -305,12 +300,6 @@ http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1070.ts
 
 #EXTINF:0, group-title="Sports",WILLOW CRICKET HD
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/517.ts
-
-#EXTINF:0, group-title="Sports",JIO CRICKET HD Hindi
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/1372.ts
-
-#EXTINF:0, group-title="Sports",Ten cricket
-http://luckonline.eu:8080/live/Jakarta786/Jakarta786/510.ts
 
 #EXTINF:0, group-title="Sports",Sky sports action HD
 http://luckonline.eu:8080/live/Jakarta786/Jakarta786/506.ts
